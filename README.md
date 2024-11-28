@@ -2,7 +2,7 @@
 - 👀 I’m interested in games
 - 🌱 I’m currently learning how to cook
 - 💞️ I’m looking to collaborate on Game Development
-- 📫 How to reach me don't
+- 📫 How to reach me: joeyspanjaard07@gmail.com
 - 😄 Pronouns: himerson
 - ⚡ Fun fact: I am 17 years old
 
