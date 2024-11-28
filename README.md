@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @JSpanjaard07
-- 👀 I’m interested in my pookie
+- 👀 I’m interested in games
 - 🌱 I’m currently learning how to cook
-- 💞️ I’m looking to collaborate on seggsy time
+- 💞️ I’m looking to collaborate on Game Development
 - 📫 How to reach me don't
 - 😄 Pronouns: himerson
-- ⚡ Fun fact: 8 inches
+- ⚡ Fun fact: I am 17 years old
 
 <!---
 JSpanjaard07/JSpanjaard07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
